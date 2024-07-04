@@ -1,0 +1,11 @@
+INSTRUCTORES:
+
+Omar_Rivera
+
+Omar123
+
+ADMNISTRADORES:
+
+Pablo_Admin
+
+Pablo123
